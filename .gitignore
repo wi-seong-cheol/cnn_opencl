@@ -1,0 +1,15 @@
+# Object files
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Executables
+cnn_opencl
+
+# binary file
+*.bin
+
+# result file
+result.out
